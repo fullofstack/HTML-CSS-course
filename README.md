@@ -2,8 +2,7 @@
 Free HTML &amp; CSS Course
 
 ## Introduction
-If you want to know “How to use HTML & CSS?” and “How to design a website” you came to the right place for sure! This course will help you understand what the best and easiest way to learn HTML & CSS is.
-HTML & CSS are the first things you need to build website interfaces and in this course. I'll teach you everything that you as a web developer need to know to build amazing website using long would you be.
+This course will help you understand what the best and easiest way to learn HTML & CSS is. HTML & CSS are the first things you need to build website interfaces and in this course. In this course you will learn how to start HTML & CSS from scratch and create your first HTML & CSS project.
 
 ## Getting started
 | Title           | Time | language | Published | 
