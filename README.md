@@ -8,5 +8,5 @@ HTML & CSS are the first things you need to build website interfaces and in this
 ## Getting started
 | Title           | Time | language | Published | 
 |-----------------|------|----------|-----------|
-| [Intro](https://www.youtube.com/watch?v=pKVRhJ5B9yU) | 00:34 |  English | :heavy_check_mark: |
+| [What is HTML & CSS](https://www.youtube.com/watch?v=ipFVn99rqCo) | 03:50 | English | :heavy_check_mark: |
 
