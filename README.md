@@ -8,7 +8,7 @@ This course will help you understand what the best and easiest way to learn HTML
 | Title           | Time | language | Published | 
 |-----------------|------|----------|-----------|
 | [What is HTML & CSS](https://www.youtube.com/watch?v=ipFVn99rqCo) | 03:50 | English | :heavy_check_mark: |
-| Create simple project | - | English | - |
+| [Create simple project](https://www.youtube.com/watch?v=f2CC54OJJds) | 06:07 | English | :heavy_check_mark: |
 | Recomended tools for fornt-end development | - | English | - |
 
 ## Dive into HTML
